@@ -10,6 +10,7 @@ namespace GitIntegration
     {
         static void Main(string[] args)
         {
+            //Track changes in tree
         }
     }
 }

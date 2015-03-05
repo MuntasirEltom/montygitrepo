@@ -1,1 +1,6 @@
 C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\bin\Debug\GitIntegration.exe.config
+C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\bin\Debug\GitIntegration.exe
+C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\bin\Debug\GitIntegration.pdb
+C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\obj\Debug\GitIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\obj\Debug\GitIntegration.exe
+C:\Users\Muntasir\Documents\GitHub\montygitrepo\GitIntegration\GitIntegration\obj\Debug\GitIntegration.pdb
