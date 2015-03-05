@@ -12,6 +12,7 @@ namespace GitIntegration
         {
             //Track changes in tree
 	    //staging
+	    Console.WriteLine("Hello World");
         }
     }
 }
