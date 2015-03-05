@@ -11,8 +11,9 @@ namespace GitIntegration
         static void Main(string[] args)
         {
             //Track changes in tree
-	        //staging
-	    Console.WriteLine("Hello World");
+            //staging
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
