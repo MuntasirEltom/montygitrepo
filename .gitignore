@@ -88,3 +88,8 @@ MVC5WebProj/packages/Modernizr.2.6.2/Tools/common.ps1
 MVC5WebProj/packages/Modernizr.2.6.2/Tools/install.ps1
 MVC5WebProj/packages/Modernizr.2.6.2/Tools/uninstall.ps1
 MVC5WebProj/packages/repositories.config
+GitIntegration/GitIntegration.v11.suo
+GitIntegration/GitIntegration/bin/Debug/GitIntegration.exe
+GitIntegration/GitIntegration/bin/Debug/GitIntegration.pdb
+GitIntegration/GitIntegration/obj/Debug/GitIntegration.exe
+GitIntegration/GitIntegration/obj/Debug/GitIntegration.pdb
