@@ -13,7 +13,9 @@ namespace GitIntegration
             //Track changes in tree
             //staging
             Console.WriteLine("Hello World");
+            Console.Write("Press any key to continue...");
             Console.ReadLine();
+
         }
     }
 }
