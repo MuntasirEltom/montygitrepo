@@ -16,6 +16,8 @@ namespace GitIntegration
             Console.Write("Press any key to continue...");
             Console.ReadLine();
             //Changes Tracked
+            //Now display things
+            Console.WriteLine("Thanks for using this software");
 
         }
     }
