@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitIntegration
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Track changes in tree
+            //staging
+            Console.WriteLine("Hello World");
+            Console.Write("Press any key to continue...");
+            Console.ReadLine();
+<<<<<<< HEAD
+            //Changes Tracked
+            //Now display things
+            Console.WriteLine("Thanks for using this software");
+=======
+>>>>>>> parent of 86fef7e... Adding a new project
+
+        }
+    }
+}
